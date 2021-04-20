@@ -4,10 +4,9 @@ div.infocard{
 	margin: auto; 
 	margin-top: 100px; 
 	width: 45vw; 
-	border: 1px solid #fff000; 
-	border-radius: 20px; 
+	border: 1px solid #fff000;  
 	padding: 70px; 
-	background-color: white;
+	background-color: green;
 }
 
 .h1title{
